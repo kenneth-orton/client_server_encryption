@@ -16,6 +16,6 @@ over a network connection. Handles files and text messages.
    <img src="/img/server_listen.PNG" width="350px" height="400px"/> <img src="/img/enter_ip.PNG" width="350px" height="200px"/>
 </p>
 <p align="center">
-  <img src="/img/encrypt_send.PNG" width="350"/>
+  <img src="/img/encrypt_send.PNG" width="600" height="700"/>
 </p>
 
