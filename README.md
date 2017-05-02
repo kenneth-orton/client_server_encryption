@@ -13,7 +13,7 @@ over a network connection. Handles files and text messages.
 <p>To generate your own keys compile and run CryptographicAlgorithms.java</p>
 
 <p align="center">
-   <img src="/img/server_listen.PNG" width="50%"/> <img src="/img/enter_ip.PNG" width="50%"/>
+   <img src="/img/server_listen.PNG" width="350px" height="250px"/> <img src="/img/enter_ip.PNG" width="350px" height="250px"/>
 </p>
 <p align="center">
   <img src="/img/encrypt_send.PNG" width="350"/>
