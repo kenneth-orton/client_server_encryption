@@ -10,8 +10,8 @@ over a network connection. Handles files and text messages.
    A basic guide to installing the policy files is included in the installation.txt file</p>
 
 ## Windows 7
-<i>*Download location for the <b> <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
->Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files</b></i></a><br>
+<i>*Download location for the <b> <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html">
+Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files</b></i></a><br>
 <p>To run the jar files the keys must be in the same directory as the jar.</p>
 <p>To generate your own keys compile and run CryptographicAlgorithms.java</p>
 
