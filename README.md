@@ -9,9 +9,17 @@ over a network connection. Handles files and text messages.
    The installation of these policy files varies depending on the Operating System being used.<br> 
    A basic guide to installing the policy files is included in the installation.txt file</p>
 
-## Windows 7
 <i>*Download location for the <b> <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html">
 Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files</b></i></a><br>
+
+### Windows 7 - Java 8
+Unzip files and copy/paste files from UnlimitedJCEPolicyJDK8/ folder into C:\Program Files\Java\jdk1.8.0_101\lib\security\
+
+### Linux - Java 8
+Unzip files and copy/paste files from UnlimitedJCEPolicyJDK8/ folder into /home/user/jdk1.8.0_101/jre/lib/security/
+
+<i>**directories and Java versions may differ depending on your installation</i>
+
 <p>To run the jar files the keys must be in the same directory as the jar.</p>
 <p>To generate your own keys compile and run CryptographicAlgorithms.java</p>
 
