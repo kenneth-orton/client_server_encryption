@@ -23,9 +23,9 @@ Unzip files and copy/paste files from UnlimitedJCEPolicyJDK8/ folder into /home/
 #### To run the jar files the keys must be in the same directory as the jar. <br> To generate your own keys compile and run CryptographicAlgorithms.java
 
 <p align="center">
-   <img src="/img/server_listen.PNG" width="350px" height="425px"/> <img src="/img/ip_addr.PNG" width="300px" height="200px"/>
+   <img src="/img/server.PNG" width="800px" height="600px"/>
 </p>
 <p align="center">
-  <img src="/img/encrypt_send.PNG" width="800" height="550"/>
+  <img src="/img/encrypt_send.PNG" width="800" height="600"/>
 </p>
 
