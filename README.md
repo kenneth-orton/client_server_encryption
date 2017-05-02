@@ -13,12 +13,12 @@ over a network connection. Handles files and text messages.
 <p>To generate your own keys compile and run CryptographicAlgorithms.java</p>
 
 <p align="center">
-  <img src="/img/Server_IP.png" width="350"/>
+  <img src="/img/server_listen.png" width="350"/>
 </p>
 <p align="center">
-  <img src="/img/Caesar_File.png" width="350"/>
+  <img src="/img/enter_ip.png" width="350"/>
 </p>
 <p align="center">
-  <img src="/img/AES256_Text.png" width="350"/>
+  <img src="/img/encrypt_send.png" width="350"/>
 </p>
 
