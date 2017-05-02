@@ -12,10 +12,10 @@ over a network connection. Handles files and text messages.
 <p>To run the jar files the keys must be in the same directory as the jar.</p>
 <p>To generate your own keys compile and run CryptographicAlgorithms.java</p>
 
-<p align="center" style="inline-block">
+<p align="center" style="display:inline-block; float:left;">
   <img src="/img/server_listen.PNG" width="350"/>
 </p>
-<p align="center" style="inline-block">
+<p align="center" style="display:inline-block; float:right;">
   <img src="/img/enter_ip.PNG" width="350"/>
 </p>
 <p align="center">
