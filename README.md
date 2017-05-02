@@ -26,6 +26,6 @@ Unzip files and copy/paste files from UnlimitedJCEPolicyJDK8/ folder into /home/
    <img src="/img/server.PNG" width="800px" height="600px"/>
 </p>
 <p align="center">
-  <img src="/img/encrypt_send.PNG" width="800" height="600"/>
+  <img src="/img/client_server.PNG" width="800" height="600"/>
 </p>
 
