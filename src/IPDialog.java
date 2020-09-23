@@ -1,5 +1,4 @@
 /* Kenneth Orton
- * ACO431 Project1
  * 
  * Sources:
  * http://stackoverflow.com/questions/11093326/restricting-jtextfield-input-to-integers
