@@ -1,5 +1,4 @@
 /* Kenneth Orton
- * ACO431 Project 1
  * Sources:
  * http://stackoverflow.com/questions/8690351/updating-jtextarea-in-java
  * http://stackoverflow.com/questions/17502210/unable-to-make-the-jtextarea-scrollable
