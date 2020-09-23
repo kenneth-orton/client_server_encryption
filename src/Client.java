@@ -1,5 +1,4 @@
 /* Kenneth Orton
- * ACO431 Project 1
  * 
  * Sources:
  * https://docs.oracle.com/javase/tutorial/uiswing/components/button.html
